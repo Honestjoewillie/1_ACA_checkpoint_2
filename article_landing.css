@@ -1,0 +1,36 @@
+body{
+    background-image: url(/images/sign.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    text-align: center;
+    margin-bottom: 20px;
+    border: solid 5px black;
+    background-color: white;
+}
+div{
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
+h2{
+    text-decoration: underline;
+}
+.all{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin-left: 300px;
+}
+.article_1{
+    background-color: rgb(221, 178, 221);
+}
+.article_2{
+    background-color: rgb(118, 165, 139);
+}
+.article_3{
+    background-color: rgb(243, 160, 160);
+}
