@@ -36,16 +36,6 @@ h2{
     border: red solid 2px;
     padding: 20px;
 }
-.article_2{
-    background-color: rgb(118, 165, 139);
-    border: green solid 2px;
-    padding: 20px;
-}
-.article_3{
-    background-color: rgb(243, 160, 160);
-    border: 2px solid orange;
-    padding: 20px;
-}
 .footer{
     background-color: black;
     color: white;
