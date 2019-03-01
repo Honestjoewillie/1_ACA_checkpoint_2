@@ -16,6 +16,31 @@ header{
     left: 24%;
     top: 20px;
     z-index: 5;
+    padding-bottom: 10px;
+}
+.home{
+    border: solid 2px black;
+    padding: 5px;
+    margin: 0 20px;
+    color: black;
+}
+.about{
+    border: solid 2px black;
+    padding: 5px;
+    margin: 0 20px;
+    color: black;
+}
+.hours{
+    border: solid 2px black;
+    padding: 5px;
+    margin: 0 20px;
+    color: black;
+}
+.contact{
+    border: solid 2px black;
+    padding: 5px;
+    margin: 0 20px;
+    color: black;
 }
 div{
     font-family: 'Indie Flower', cursive;
@@ -45,6 +70,9 @@ h2{
 }
 @media (max-width: 600px){
     .hours{
+        display: none;
+    }
+    .contact{
         display: none;
     }
     .all{
